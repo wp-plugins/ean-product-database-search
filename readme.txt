@@ -6,14 +6,17 @@ Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Donate link: http://pleep.net/
 
-Das Plugin zeigt Preise und Bewertungen zu EAN-Codes von Produkten an.
+Das Plugin ermöglicht das Einbinden von Produktdaten und Verkäuferinformationen über einen Shortcode, der den EAN-Code des Produkts enthält.
 
 == Description ==
 
-Das Plugin zeigt Preise und Bewertungen zu EAN-Codes von Produkten an.
+Das Plugin ermöglicht das Einbinden von Produktdaten und Verkäuferinformationen über einen Shortcode, der den EAN-Code des Produkts enthält.
 
 Bitte benachrichtige uns über Fehler, damit wir diese so bald wie möglich beheben können: kontakt[at]webworks-nuernberg.de
+
+Weitere Informationen unter http://pleep.net
 
 == Installation ==
 
