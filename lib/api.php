@@ -8,7 +8,7 @@ class PleepApi {
     private $_ean;
 
     public function __construct() {
-        $this->_apiUrl = 'http://pleep.net/api';
+        $this->_apiUrl = 'http://www.saleshare.de/api';
         $this->_eanUrl = $this->_apiUrl. '/product';
     }
 

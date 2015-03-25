@@ -1,12 +1,12 @@
 <?php
 
 /**
- * Plugin Name: EAN product database search
- * Plugin URI: http://pleep.net
+ * Plugin Name: SaleShare - EAN-Code product database search
+ * Plugin URI: http://www.saleshare.de/
  * Description: Das Plugin zeigt Preise und Bewertungen zu EAN-Codes von Produkten an.
  * Version: 1.0
  * Author: pleep.net
- * Author URI: http://pleep.net
+ * Author URI: http://www.saleshare.de/
  * License: GPL2
  */
 

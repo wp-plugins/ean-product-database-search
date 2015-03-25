@@ -6,7 +6,7 @@ Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Donate link: http://pleep.net/
+Donate link: http://www.saleshare.de/
 
 Das Plugin ermöglicht das Einbinden von Produktdaten und Verkäuferinformationen über einen Shortcode, der den EAN-Code des Produkts enthält.
 
@@ -16,7 +16,7 @@ Das Plugin ermöglicht das Einbinden von Produktdaten und Verkäuferinformatione
 
 Bitte benachrichtige uns über Fehler, damit wir diese so bald wie möglich beheben können: kontakt[at]webworks-nuernberg.de
 
-Weitere Informationen unter http://pleep.net
+Weitere Informationen unter http://www.saleshare.de/
 
 == Installation ==
 
